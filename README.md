@@ -15,6 +15,8 @@ Aurora4 Clean Data
 https://user-images.githubusercontent.com/20760190/41382976-5291fe8c-6f23-11e8-9d66-d8a0a278eb34.png)
 
 * 一段语音的结尾 并且 结尾词以后有大段空白： **example: segmentedsamples/13.wav, segmentedsamples/19.wav**
+![](https://user-images.githubusercontent.com/20760190/41383171-3d53ddfa-6f24-11e8-9599-686625e9a036.png)
+
 
 
 
