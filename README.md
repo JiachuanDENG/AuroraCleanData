@@ -18,7 +18,7 @@ https://user-images.githubusercontent.com/20760190/41382976-5291fe8c-6f23-11e8-9
 ![](https://user-images.githubusercontent.com/20760190/41383171-3d53ddfa-6f24-11e8-9599-686625e9a036.png)
 ![](https://user-images.githubusercontent.com/20760190/41383170-3d382ca4-6f24-11e8-824d-e2da857cce5a.png)
 
-
-
+* 一段语音结尾 +大段空白+ 一段语音开头 **example: segmentedsmaples/2.wav**
+![]()
 
 
