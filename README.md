@@ -8,7 +8,7 @@ Aurora4 Clean Data
 
 ## 2. 具体需求：
 ### 语音片段长度：
-* 我们理想的长度是0.5s, 但是手动截取不需要那么精确，可以截取到[0.5,0.52)这个区间内就可以 （注意区间是左闭右开）。
+* 我们理想的长度是0.5s, 但是手动截取不需要那么精确，精度在 0.5s< 语音片段长度 <=0.52s。
 ### 具体需要的语音片段类型：
 * 一段语音的开头 并且 人发声前有大段空白: **example: segementedsamples/1.wav**
 ![](
@@ -20,5 +20,8 @@ https://user-images.githubusercontent.com/20760190/41382976-5291fe8c-6f23-11e8-9
 
 * 一段语音结尾 +大段空白+ 一段语音开头 **example: segmentedsmaples/2.wav**
 ![](https://user-images.githubusercontent.com/20760190/41383283-cef45d20-6f24-11e8-9b02-ab2d224ef40c.png)
+
+### 需求数量
+800 个 左右的 0.5s 的语音片段。注意不要有重复的~
 
 
