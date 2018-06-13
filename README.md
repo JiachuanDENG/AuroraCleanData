@@ -22,7 +22,7 @@ https://user-images.githubusercontent.com/20760190/41382976-5291fe8c-6f23-11e8-9
 ![](https://user-images.githubusercontent.com/20760190/41383283-cef45d20-6f24-11e8-9b02-ab2d224ef40c.png)
 
 ### 需求数量
-800 个 左右的 0.5s 的语音片段。注意不要有重复的~
+1000 个 左右的 0.5s 的语音片段。注意不要有重复的~
 
 ## 3. 推荐使用语音处理软件：
 Audacity
