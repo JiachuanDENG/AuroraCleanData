@@ -1,0 +1,10 @@
+此程序使用python2.7版本，需要安装pylab
+
+Please input threshold value(usually 200~300):
+输入一个阈值，能量峰值低于这个阈值的文件将会被筛选出来
+Please input the full path of target dir:
+输入目标文件夹的完整路径
+
+如果文件夹存在，将打印所有被筛选出来的文件
+如果文件夹不存在则会提示Wrong file or file path
+
